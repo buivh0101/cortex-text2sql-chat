@@ -14,15 +14,4 @@ Interact with data through Snowflake Cortex Analyst. Ask a question. Get SQL. Se
 3. Cortex returns text, SQL, and suggestions.
 4. The app shows the SQL, runs it in Snowflake, then streams an answer from the result set.
 
-## Setup
 
-### Requirements
-
-- Python 3.9 or 3.10
-- Snowflake account with Snowpark enabled and Cortex Analyst access
-- Streamlit
-
-Install:
-
-```bash
-pip install -r requirements.txt
